@@ -33,4 +33,3 @@ function theFunk() {
   var theFunk = funkyFunction()
   return theFunk
 }
-theFunk()
